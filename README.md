@@ -2,6 +2,7 @@ Hello, OpenShift!
 -----------------
 
 This example will serve an HTTP response of "Hello OpenShift!".
+For cs2cdocker.
 
     $ oc create -f examples/hello-openshift/hello-pod.json
 
